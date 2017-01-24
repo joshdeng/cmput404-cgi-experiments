@@ -1,0 +1,19 @@
+Question 1:
+
+import os
+print ((dict(os.environ))
+
+Question 2:
+'QUERY_STRING'
+
+Question 3:
+'HTTP_USER_AGENT'
+
+Question 4:
+sys.stdin.read(int(os.environ['CONTENT_LENGTH']))
+
+Question 5:
+"Set-Cookie: loggedin=true"
+
+Question 6:
+"Cookie: loggedin=true"
